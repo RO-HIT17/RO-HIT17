@@ -13,10 +13,11 @@ I also have a strong interest in web development, honing my skills to create use
 ### Languages
 
 ![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![HTML5](https://skillicons.dev/icons?i=html)
+
 
 ### Frameworks & Libraries
 
