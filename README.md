@@ -26,6 +26,7 @@ I also have a strong interest in web development, honing my skills to create use
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Databases
 
