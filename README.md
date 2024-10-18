@@ -45,19 +45,21 @@ I also have a strong interest in web development, honing my skills to create use
 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Azure](https://skillicons.dev/icons?i=azure)
+![Github](https://skillicons.dev/icons?i=github)
 
 ---
 
 ## 📊 GitHub Stats
   
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RO-HIT17&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RO-HIT17&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RO-HIT17&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RO-HIT17&layout=compact&theme=github_dark&count_private=true&include_all_commits=true)
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=RO-HIT17&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RO-HIT17&theme=dark)](https://git.io/streak-stats)
 
 ---
 
