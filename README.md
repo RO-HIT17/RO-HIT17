@@ -1,6 +1,12 @@
 # Hi, I'm Rohit! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong focus on **web development**, **machine learning**, and **AI-driven systems**. I enjoy working on both frontend and backend technologies, always looking to push the boundaries of what's possible with code.
+🚀 **Aspiring Software Developer | Python & ML Enthusiast | DSA & Web Dev Explorer**
+
+I'm currently pursuing a B.Tech in IT at CEG, Anna University. Passionate about coding, I’m constantly expanding my knowledge in software development. My journey delves deep into Python, exploring the fascinating world of data science and machine learning. Alongside this, I actively engage with data structures and algorithms (DSA) to sharpen my problem-solving skills and build efficient coding solutions.
+
+I also have a strong interest in web development, honing my skills to create user-friendly and dynamic web applications. I'm driven by curiosity and a passion for solving real-world problems through technology, always excited to learn and build new things!
+
+---
 
 ## 💻 Tech Stack
 
@@ -45,11 +51,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 📊 GitHub Stats
   
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RO-HIT17&show_icons=true&theme=radical)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RO-HIT17&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RO-HIT17&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RO-HIT17&layout=compact&theme=github_dark)
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=RO-HIT17&theme=dark&hide_border=true)
+
+---
 
 ## 📫 How to Reach Me
 
 - **Email:** rohit.selvakumaran@gmail.com
-
