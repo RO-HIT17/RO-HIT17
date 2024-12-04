@@ -55,8 +55,6 @@ I also have a strong interest in web development, honing my skills to create use
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RO-HIT17&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RO-HIT17&theme=dark)](https://git.io/streak-stats)
-
 ---
 
 ## 📫 How to Reach Me
