@@ -1,24 +1,19 @@
 # Hi, I'm Rohit! 👋
 
-🚀 **Aspiring Software Developer | Python & ML Enthusiast | DSA & Web Dev Explorer**
+I'm currently pursuing a B.Tech in IT at CEG, Anna University. Passionate about coding, I continuously explore the depths of Python, data science, and machine learning, with a strong interest in artificial intelligence. My journey revolves around solving complex problems through DSA, enhancing my logical thinking and efficiency in competitive programming.
 
-I'm currently pursuing a B.Tech in IT at CEG, Anna University. Passionate about coding, I’m constantly expanding my knowledge in software development. My journey delves deep into Python, exploring the fascinating world of data science and machine learning. Alongside this, I actively engage with data structures and algorithms (DSA) to sharpen my problem-solving skills and build efficient coding solutions.
-
-I also have a strong interest in web development, honing my skills to create user-friendly and dynamic web applications. I'm driven by curiosity and a passion for solving real-world problems through technology, always excited to learn and build new things!
+Driven by curiosity, I enjoy tackling real-world challenges with technology, always eager to learn, experiment, and innovate in the fields of AI and machine learning!
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
+## 💻 Technical Skills
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-
-
-### Frameworks & Libraries
+![Azure](https://skillicons.dev/icons?i=azure)
+![Github](https://skillicons.dev/icons?i=github)
 
 ![React](https://skillicons.dev/icons?i=react)
 ![Angular](https://skillicons.dev/icons?i=angular)
@@ -26,28 +21,20 @@ I also have a strong interest in web development, honing my skills to create use
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### Databases
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### AI & ML
-
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-
-### Tools & Platforms
+![OpenCV](https://skillicons.dev/icons?i=opencv)
 
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
-![Git](https://skillicons.dev/icons?i=git)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Azure](https://skillicons.dev/icons?i=azure)
-![Github](https://skillicons.dev/icons?i=github)
 
 ---
 
