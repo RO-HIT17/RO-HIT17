@@ -15,12 +15,12 @@ Driven by curiosity, I enjoy tackling real-world challenges with technology, alw
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Github](https://skillicons.dev/icons?i=github)
 
-![React](https://skillicons.dev/icons?i=react)
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![Next](https://skillicons.dev/icons?i=nextjs)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![Fastapi](https://skillicons.dev/icons?i=fastapi)
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
