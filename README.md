@@ -24,7 +24,7 @@ Driven by curiosity, I enjoy tackling real-world challenges with technology, alw
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
