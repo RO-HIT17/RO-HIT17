@@ -31,8 +31,6 @@ Driven by curiosity, I enjoy tackling real-world challenges with technology, alw
 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
