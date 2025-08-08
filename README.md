@@ -33,6 +33,7 @@ Driven by curiosity, I enjoy tackling real-world challenges with technology, alw
 ![Git](https://skillicons.dev/icons?i=git)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Redis](https://skillicons.dev/icons?i=redis)
 
 ---
 
