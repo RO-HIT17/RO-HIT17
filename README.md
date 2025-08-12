@@ -1,8 +1,5 @@
 # Hi, I'm Rohit! 👋
 
-I'm currently pursuing a B.Tech in IT at CEG, Anna University. Passionate about coding, I continuously explore the depths of Python, data science, and machine learning, with a strong interest in artificial intelligence. My journey revolves around solving complex problems through DSA, enhancing my logical thinking and efficiency in competitive programming.
-
-Driven by curiosity, I enjoy tackling real-world challenges with technology, always eager to learn, experiment, and innovate in the fields of AI and machine learning!
 
 ---
 
