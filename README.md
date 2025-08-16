@@ -10,7 +10,6 @@
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![React](https://skillicons.dev/icons?i=react)
@@ -20,7 +19,6 @@
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Fastapi](https://skillicons.dev/icons?i=fastapi)
-
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
@@ -30,7 +28,6 @@
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 ![Azure](https://skillicons.dev/icons?i=azure)
-
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
