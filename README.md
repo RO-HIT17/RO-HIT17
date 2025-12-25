@@ -1,6 +1,6 @@
 # Hi, I'm Rohit! 
 
-....,,,,
+......,,,,,,
 
 ---
 
@@ -44,7 +44,3 @@
 ## 📫 How to Reach Me
 
 - **Email:** rohit.selvakumaran@gmail.com
-
-<br><p align="center">
-  <a href="https://github.com/RO-HIT17"><img src="https://komarev.com/ghpvc/?username=RO-HIT17&color=blueviolet" /></a>
-</p>
