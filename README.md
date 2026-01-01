@@ -30,7 +30,6 @@
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
-![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
