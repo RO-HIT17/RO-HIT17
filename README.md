@@ -35,14 +35,12 @@
 ---
 
 ## 📊 GitHub Stats
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RO-HIT17&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
 <img src="https://github-readme-stats-psi-bay-61.vercel.app/api?username=RO-HIT17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged&show_icons=true&card_width=490&custom_title=Stats" />
 
 <br/>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=RO-HIT17)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=RO-HIT17&theme=github_dark)](https://git.io/streak-stats)
 <br/>
 ---
 
