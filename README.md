@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-psi-bay-61.vercel.app/api?username=RO-HIT17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged&show_icons=true&card_width=490&custom_title=Stats" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RO-HIT17&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=RO-HIT17&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=tokyonight)
 
 <br/>
 
