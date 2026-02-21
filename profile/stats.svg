@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rohit's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  : 4172, Total PRs: 286, Total PRs Merged: 244, Merged PRs Percentage: 85.31, Total PRs Reviewed: 2, Total Issues: 476, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 4182, Total PRs: 288, Total PRs Merged: 246, Merged PRs Percentage: 85.42, Total PRs Reviewed: 2, Total Issues: 476, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 99.81076565761875;
+        stroke-dashoffset: 99.76211806141103;
       }
     }
   
@@ -180,7 +180,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >286</text>
+      >288</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -191,7 +191,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs_merged"
-      >244</text>
+      >246</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >85.31 %</text>
+      >85.42 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
