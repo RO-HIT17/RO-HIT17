@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rohit's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  : 4365, Total PRs: 331, Total PRs Merged: 288, Merged PRs Percentage: 87.01, Total PRs Reviewed: 8, Total Issues: 503, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 4377, Total PRs: 331, Total PRs Merged: 288, Merged PRs Percentage: 87.01, Total PRs Reviewed: 8, Total Issues: 503, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.80355797259939;
+        stroke-dashoffset: 89.78671981937163;
       }
     }
   
