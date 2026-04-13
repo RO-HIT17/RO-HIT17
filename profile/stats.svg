@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rohit's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  : 4381, Total PRs: 331, Total PRs Merged: 288, Merged PRs Percentage: 87.01, Total PRs Reviewed: 8, Total Issues: 503, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 4418, Total PRs: 332, Total PRs Merged: 289, Merged PRs Percentage: 87.05, Total PRs Reviewed: 8, Total Issues: 507, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.781138153314;
+        stroke-dashoffset: 89.72143841436822;
       }
     }
   
@@ -180,7 +180,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >331</text>
+      >332</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -191,7 +191,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs_merged"
-      >288</text>
+      >289</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >87.01 %</text>
+      >87.05 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -224,7 +224,7 @@
         x="199.01"
         y="12.5"
         data-testid="issues"
-      >503</text>
+      >507</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
