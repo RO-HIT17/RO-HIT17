@@ -40,7 +40,9 @@
 
 <br/>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=RO-HIT17&theme=tokyonight)](https://git.io/streak-stats)
+## 📊 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RO-HIT17&theme=tokyonight)
 <br/>
 ---
 
