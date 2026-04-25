@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rohit's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  : 4501, Total PRs: 340, Total PRs Merged: 297, Merged PRs Percentage: 87.35, Total PRs Reviewed: 11, Total Issues: 516, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 4506, Total PRs: 342, Total PRs Merged: 299, Merged PRs Percentage: 87.43, Total PRs Reviewed: 12, Total Issues: 516, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.69955482714906;
+        stroke-dashoffset: 88.54218457893998;
       }
     }
   
@@ -180,7 +180,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >340</text>
+      >342</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -191,7 +191,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs_merged"
-      >297</text>
+      >299</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >87.35 %</text>
+      >87.43 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -213,7 +213,7 @@
         x="199.01"
         y="12.5"
         data-testid="reviews"
-      >11</text>
+      >12</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
